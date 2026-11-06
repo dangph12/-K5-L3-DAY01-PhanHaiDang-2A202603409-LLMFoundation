@@ -63,11 +63,10 @@ Model BoW tụt nhiều nhất, điểm trên tập test cao do các test ở tr
 
 ## 5. Thử thách cá nhân
 
-*Đề theo SEED của bạn, cách làm, kết quả, giải thích.*
+Không hoàn thành được thử thách cá nhân
 
 ## 6. Phương án cho sản phẩm thật
 
-*Với yêu cầu p95 < 50 ms/tin cho 10 triệu SMS/ngày: chọn phương án nào, dẫn số liệu nào, chấp nhận đánh đổi gì.*
 Chọn kết hợp BoW và LLM, BoW sẽ giải quyết những case dễ, LLM sẽ giải quyết những case khó hơn, chấp nhận đánh đổi độ trễ và chi phí cho những case khó hơn.
 
 ## 7. AI log và điều đã học
